@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Site-Fotoblog/blob/main/assets/Layout%20fotoblog.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Galaxies-site-grid/blob/main/assets/Layout%20-%20Galaxies-site-grid.png">
 </p>
 
 <br>
