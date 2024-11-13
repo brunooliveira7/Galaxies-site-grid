@@ -1,7 +1,7 @@
 <h1 align="center"> Galaxies-site-grid </h1>
 
 <p align="center">
-. Site disponível em: https://brunooliveira7.github.io/Galaxies-site-grid
+Site em formato de grid, colunas, que possui links para apresentar curiosidades sobre as galáxias. Site disponível em: https://brunooliveira7.github.io/Galaxies-site-grid
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ O site fotoblog possui campo para pesquisas de fotografias e imagens, com login 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/4eEVbKEmqKIpQfYGFuAK6l/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?node-id=115-3&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
