@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site fotoblog possui campo para pesquisas de fotografias e imagens, com login e usuário, que facilitam a navegação.
+O site fotoblog com descrição.
 
 ## 🔖 Layout
 
